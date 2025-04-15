@@ -16,7 +16,8 @@
     
     print("说明：为什么不用交易哈稀值，修改gas，nonce可能影响到哈稀值")
 
-    
+在sepolia测试网通过，使用python竞猜通过，尚未开发网页，等有空在Warpcast部署为mini app
 
 实现效果如下：
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/79cc447d-9ba5-43eb-9f35-5b5c2835d776)
+
