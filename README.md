@@ -1,4 +1,4 @@
-# block_hash_guess 竞猜区块哈稀值
+# block_hash_guess 竞猜区块哈稀值游戏
 
     print("针对竞猜所在区块哈稀尾号内容的字符，猜数字,0-9,英文,a-f")
     
