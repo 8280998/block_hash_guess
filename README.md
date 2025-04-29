@@ -1,4 +1,4 @@
-# block_hash_guess 竞猜区块哈稀值游戏
+# 海妖链（INK）竞猜区块哈稀值游戏
 
 针对竞猜所在区块哈希尾号内容的字符值，猜0-9 或 a-f
 
@@ -12,14 +12,14 @@
 
 目前合约开发已完成并测试正常。当前已部署在ink主网上。
 
-游戏币水龙头领取 http://107.174.79.186:3355/    同时这个网时也可以玩区块哈稀竞猜游戏
+游戏币水龙头领取 https://ink-bet-games.vercel.app/ 
 
-使用python运行竞猜正常,大约10-18秒一次（base测试链是2秒一个块）
+使用python运行竞猜正常,大约10-18秒一次（海妖链是1秒一个块）
 
 python实现效果如下：
 ![image](https://github.com/user-attachments/assets/17c85e61-d2ad-405b-81ed-de0466b366f2)
 
-搭建的网页app速度相对比较慢，大约15-20秒一次，网页实现效果如下：
+网页实现效果如下：
 ![image](https://github.com/user-attachments/assets/57d2e7c9-7531-42f5-a7f2-e32d638a3162)
 
 
