@@ -17,10 +17,10 @@
 使用python运行竞猜正常,大约10-18秒一次（海妖链是1秒一个块）
 
 python实现效果如下：
+
 ![image](https://github.com/user-attachments/assets/17c85e61-d2ad-405b-81ed-de0466b366f2)
 
+
 网页实现效果如下：
+
 ![image](https://github.com/user-attachments/assets/57d2e7c9-7531-42f5-a7f2-e32d638a3162)
-
-
-
