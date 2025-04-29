@@ -19,7 +19,8 @@
 python实现效果如下：
 ![image](https://github.com/user-attachments/assets/17c85e61-d2ad-405b-81ed-de0466b366f2)
 
-搭建的网页app速度相对比较慢，大约30-40秒一次，网页实现效果如下：
-![image](https://github.com/user-attachments/assets/d21f6f54-2376-43bd-ace9-7a7b9ec8b06b)
+搭建的网页app速度相对比较慢，大约15-20秒一次，网页实现效果如下：
+![image](https://github.com/user-attachments/assets/57d2e7c9-7531-42f5-a7f2-e32d638a3162)
+
 
 
